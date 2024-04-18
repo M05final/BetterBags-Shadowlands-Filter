@@ -1,0 +1,16 @@
+## Interface: 100206
+
+## Title: BetterBags - Shadowlands
+## Notes: Filter for Items from the Shadowlands expansion.
+## Author: M05final
+## Version: v1.0.0
+## IconTexture: Interface\Icons\spell_animabastion_orb
+
+## DefaultState: Enabled
+## Dependencies: BetterBags
+## X-Category: Bags & Inventory
+## X-License: MIT
+
+database.lua
+main.lua
+
